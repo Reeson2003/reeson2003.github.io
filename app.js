@@ -182,8 +182,7 @@ function getToken() {
 
 
 function sendNotification(notification) {
-    var key = token.text();
-    console.log("KEY=", key)
+    var key = 'AAAAMeAJN_8:APA91bFTOT_12ICLP2wMcmXE144ZPMNX8mrOWM6EqbLslxHxNyDviHatNOusMf1j0uJJMWoX_FOIAV3Vk6NpqgDPCdGzRIrzdKg1HNkNR_OKJaB2Oyal4eBuX1HoaFnsPFwODHgEFj17'
 
     console.log('Send notification', notification);
 
