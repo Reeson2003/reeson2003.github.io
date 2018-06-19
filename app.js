@@ -182,7 +182,7 @@ function getToken() {
 
 
 function sendNotification(notification) {
-    var key = $("#token").innerText;
+    var key = token.text;
     console.log("KEY=", key)
 
     console.log('Send notification', notification);
